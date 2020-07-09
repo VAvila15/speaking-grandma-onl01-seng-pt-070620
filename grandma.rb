@@ -1,4 +1,2 @@
-phrase = "HUH?! SPEAK UP, SONNY!"
-if phrase = "Hi!"
-  puts "!"
+def speak_to_grandma
   
